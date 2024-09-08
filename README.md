@@ -13,6 +13,7 @@ Here are some questions.
 - What is the difference between B-tree and B+ tree?
 - Why you should never index all columns?
 - Is Join faster or Sub-queries faster?
+- Is count(\*) slow?
 - When Dirty Read occurs?
 - When Non-repeatable Read occurs?
 - Read Uncommitted is the Lowest Isolation Level. What does that mean?
