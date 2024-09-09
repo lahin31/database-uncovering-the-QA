@@ -4,6 +4,7 @@ As a Database Engineer we should understand some of the basic and advance questi
 
 Here are some questions.
 
+- Why Database Engine?
 - What is Page, HEAP and IO?
 - Why Buffer Pool?
 - What should be the ideal Buffer Pool size?
